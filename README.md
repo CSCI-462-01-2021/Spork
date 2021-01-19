@@ -1,10 +1,10 @@
 Project Choices
 
--Sugar Labs
+1. Sugar Labs
   -Javascript, Python, HTML
   -Learning platform for children
   -link to Git: https://github.com/sugarlabs
 
--Cadasta
+1. Cadasta
 
--Dengue
+1. Dengue
