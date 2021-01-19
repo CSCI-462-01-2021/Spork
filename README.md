@@ -5,6 +5,6 @@ Project Choices
   * Learning platform for children
   * link to Git: https://github.com/sugarlabs
 
-1. Cadasta
+2. Cadasta
 
-1. Dengue
+3. Dengue
